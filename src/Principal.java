@@ -18,6 +18,7 @@ public class Principal {
         Carro jeep = new Carro();
         jeep.ligar();
         jeep.conferirCombustivel();
+        jeep.conferirCombustivel();
         
                 
                 }
